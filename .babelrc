@@ -1,0 +1,13 @@
+{
+  "presets": ["env"],
+  "plugins": [
+    "transform-class-properties",
+    "transform-object-rest-spread",
+    "transform-es2015-spread",
+    ["transform-runtime", {
+      "helpers": false,
+      "polyfill": false,
+      "regenerator": true }
+    ]
+  ]
+}
