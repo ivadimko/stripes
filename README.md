@@ -13,4 +13,4 @@ Simple webpack start template based on webpack 4
 ### Pre Commit
 `eslint` and `stylelint` run automatically on precommit hook for changed files
 
-[Demo](https://ivadimko.github.io/webpack-simple/index.html)
+[Demo](https://ivadimko.github.io/stripes)
