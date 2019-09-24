@@ -11,7 +11,7 @@ Simple webpack start template based on webpack 4
 `yarn deploy` - deploy to gh-pages
 
 ```javascript
-function() {
+function sayHello() {
   return 'hello world'
 }
 ```
