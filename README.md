@@ -10,12 +10,6 @@ Simple webpack start template based on webpack 4
 
 `yarn deploy` - deploy to gh-pages
 
-```javascript
-function sayHello() {
-  return 'hello world'
-}
-```
-
 ### Pre Commit
 `eslint` and `stylelint` run automatically on precommit hook for changed files
 
